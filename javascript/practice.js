@@ -8,7 +8,7 @@
 //   leftArray = slice method(0, indexSplit) => [1]
 //   rightArray = slice method (indexSplit) => [2, 3]
 // return mergeHelperFxn(mergeSort(leftArray), mergeSort(rightArray))
-
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // mergeHelperFxn, takes in 2 arguments (both arrays)
 // create output array, which will return a sorted array
 // create 2 variables to keep track of indexes in both arrays
